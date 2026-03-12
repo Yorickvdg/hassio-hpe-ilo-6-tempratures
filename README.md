@@ -1,0 +1,1 @@
+# hassio-hpe-ilo-6-tempratures
